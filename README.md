@@ -34,12 +34,18 @@ The system provides a **secure, user-friendly platform** for teachers and admini
 ![Apache](https://img.shields.io/badge/Server-Apache-red?logo=apache)  
 
 ---
-
 ## 📂 Project Structure
 
-
 school/
+│
 ├── src/ # Core application (PHP, JS, frontend)
+│ ├── application/
+│ ├── frontend/
+│ ├── js/
+│ ├── system/
+│ ├── index.php
+│ └── .htaccess
+│
 ├── assets/ # Static assets (CSS, images, fonts)
 ├── sql/ # SQL database scripts
 ├── uploads/ # File uploads (student docs, images)
@@ -47,16 +53,6 @@ school/
 ├── docs/ # Documentation & screenshots
 ├── README.md # Project overview
 └── .gitignore # Git ignore rules
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## ⚡ Setup & Installation
