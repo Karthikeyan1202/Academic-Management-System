@@ -1,8 +1,9 @@
 # 🏫 Academic Management System (AMS)
 
 📌 **UG Major Project | Consultancy-Based Project for Schools**  
-A full-featured **Academic Management System (AMS)** built to digitalize and simplify school operations such as **student management, attendance, exams, and reporting**.  
-The system provides a **secure, efficient, and user-friendly platform** for teachers, administrators, and staff.  
+A **complete Academic Management System (AMS)** designed to digitalize and simplify school operations such as **student management, attendance, exams, and reporting**.  
+
+The system provides a **secure, efficient, and user-friendly platform** for teachers, administrators, and staff — reducing paperwork and enabling data-driven decision-making.  
 
 ---
 
@@ -11,17 +12,17 @@ The system provides a **secure, efficient, and user-friendly platform** for teac
 - ✅ Improve accuracy in attendance and grade management  
 - ✅ Provide quick access to student academic records  
 - ✅ Enable secure, role-based access for teachers and administrators  
-- ✅ Reduce paperwork and streamline reporting  
+- ✅ Streamline reporting with centralized data  
 
 ---
 
-## ✨ Features
-- 👩‍🎓 **Student Management** → Add, update, and manage student profiles  
-- 📅 **Attendance Tracking** → Daily/weekly/monthly attendance records  
-- 📝 **Examinations & Grades** → Manage exams, results, and report cards  
-- 📊 **Reports & Analytics** → Generate performance/attendance summaries  
-- 🔐 **Role-Based Access** → Admin, teacher, and staff login portals  
-- 🗄️ **Centralized Database** → All student and academic records in one place  
+## ✨ Key Features
+- 👩‍🎓 **Student Management** → Create, update, and manage student profiles  
+- 📅 **Attendance Tracking** → Maintain daily/weekly/monthly attendance records  
+- 📝 **Examinations & Grades** → Schedule exams, manage results & generate report cards  
+- 📊 **Reports & Analytics** → Generate summaries for performance and attendance  
+- 🔐 **Role-Based Access** → Dedicated portals for Admins, Teachers, and Staff  
+- 🗄️ **Centralized Database** → Securely stores all student and academic records  
 
 ---
 
@@ -38,6 +39,8 @@ The system provides a **secure, efficient, and user-friendly platform** for teac
 ---
 
 ## ⚡ Setup & Installation
+
+Follow these steps to set up AMS locally:
 
 1. **Clone the repository**
    ```bash
