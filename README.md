@@ -37,11 +37,24 @@ The system provides a **secure, efficient, and user-friendly platform** for teac
 </p>
 
 ---
-
 ## ⚡ Setup & Installation
 
-Follow these steps to set up AMS locally:
+```bash
+# 1. Clone the repository
+git clone https://github.com/Karthikeyan1202/School-Project.git
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Karthikeyan1202/School-Project.git
+# 2. Navigate into the project folder
+cd School-Project
+
+# 3. Setup database
+# - Import the SQL file (database.sql) into MySQL
+# - Update database credentials inside config.php
+
+# 4. Run the project
+# - Place the folder inside your local server root:
+#     XAMPP → htdocs/
+#     WAMP  → www/
+# - Start Apache & MySQL services
+# - Open the project in your browser:
+http://localhost/School-Project/
+
