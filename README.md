@@ -1,38 +1,42 @@
 # 🏫 KVV School – Academic Management System (AMS)
 
-This project is a **custom Academic Management System (AMS)** developed as a **consultancy-based project for KVV School**.  
-It is designed to digitalize and simplify academic operations such as student management, attendance, exams, and reporting, providing a user-friendly platform for teachers and administrators.
+📌 **UG Major Project | Consultancy-Based Project for KVV School**  
+A complete **Academic Management System (AMS)** designed to digitalize and simplify school operations such as **student management, attendance, exams, and reporting**.  
+The system provides a **secure, user-friendly platform** for teachers and administrators.
 
 ---
 
 ## 🎯 Project Objectives
-- ✔️ Automate day-to-day academic processes  
-- ✔️ Improve accuracy in attendance and grade management  
-- ✔️ Provide quick access to student academic records  
-- ✔️ Enable secure, role-based access for teachers and administrators  
-- ✔️ Reduce paperwork and streamline reporting  
+- ✅ Automate day-to-day academic processes  
+- ✅ Improve accuracy in attendance and grade management  
+- ✅ Provide quick access to student academic records  
+- ✅ Enable secure, role-based access for teachers and administrators  
+- ✅ Reduce paperwork and streamline reporting  
 
 ---
 
 ## ✨ Features
-- 👨‍🎓 **Student Management** – Add, update, and manage student profiles  
+- 👩‍🎓 **Student Management** – Add, update, and manage student profiles  
 - 📅 **Attendance Tracking** – Daily/weekly/monthly attendance records  
-- 📝 **Examination & Grades** – Manage exams, results, and report cards  
-- 📊 **Reports** – Generate performance and attendance summaries  
-- 🔒 **Role-Based Access** – Separate logins for admin, teachers, staff  
-- 📂 **Centralized Database** – All student and academic records in one place  
+- 📝 **Examinations & Grades** – Manage exams, results, and report cards  
+- 📊 **Reports & Analytics** – Generate performance/attendance summaries  
+- 🔐 **Role-Based Access** – Admin, teacher, and staff login portals  
+- 🗄️ **Centralized Database** – All student and academic records in one place  
 
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP  
-- **Database:** MySQL (SQL scripts available in `/sql/`)  
-- **Other Tools:** Apache (XAMPP/WAMP), `.htaccess` for routing  
+![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange?logo=html5)  
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)  
+![JavaScript](https://img.shields.io/badge/Scripting-JavaScript-yellow?logo=javascript)  
+![PHP](https://img.shields.io/badge/Backend-PHP-purple?logo=php)  
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)  
+![Apache](https://img.shields.io/badge/Server-Apache-red?logo=apache)  
 
 ---
 
-## 🚀 Project Structure
+## 📂 Project Structure
+
 
 school/
 ├── src/ # Core application (PHP, JS, frontend)
@@ -47,10 +51,16 @@ school/
 
 
 
+
+
+
+
+
+
 ---
 
 ## ⚡ Setup & Installation
 
-1. Clone the repository:
+1. **Clone the repository**
    ```bash
    git clone https://github.com/Karthikeyan1202/School-Project.git
