@@ -36,24 +36,23 @@ The system provides a **secure, user-friendly platform** for teachers and admini
 ---
 ## 📂 Project Structure
 
-school/
+📦 school/
 │
-├── src/ # Core application (PHP, JS, frontend)
-│ ├── application/
-│ ├── frontend/
-│ ├── js/
-│ ├── system/
-│ ├── index.php
-│ └── .htaccess
+├── 📂 src/ ⮕ Core application (PHP, JS, frontend)
+│ ├── 📂 application/
+│ ├── 📂 frontend/
+│ ├── 📂 js/
+│ ├── 📂 system/
+│ ├── 📄 index.php
+│ └── ⚙️ .htaccess
 │
-├── assets/ # Static assets (CSS, images, fonts)
-├── sql/ # SQL database scripts
-├── uploads/ # File uploads (student docs, images)
-├── dist/ # Build/distribution files
-├── docs/ # Documentation & screenshots
-├── README.md # Project overview
-└── .gitignore # Git ignore rules
----
+├── 🎨 assets/ ⮕ Static assets (CSS, images, fonts)
+├── 🗄️ sql/ ⮕ SQL database scripts
+├── 📤 uploads/ ⮕ File uploads (student docs, images)
+├── 📦 dist/ ⮕ Build/distribution files
+├── 📘 docs/ ⮕ Documentation & screenshots
+├── 📝 README.md ⮕ Project overview
+└── 🚫 .gitignore ⮕ Git ignore rules
 
 ## ⚡ Setup & Installation
 
