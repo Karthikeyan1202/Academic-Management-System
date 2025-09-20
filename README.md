@@ -1,6 +1,6 @@
-# 🏫 KVV School – Academic Management System (AMS)
+# Academic Management System (AMS)
 
-📌 **UG Major Project | Consultancy-Based Project for KVV School**  
+📌 **UG Major Project | Consultancy-Based Project for  Schools**  
 A complete **Academic Management System (AMS)** designed to digitalize and simplify school operations such as **student management, attendance, exams, and reporting**.  
 The system provides a **secure, user-friendly platform** for teachers and administrators.
 
